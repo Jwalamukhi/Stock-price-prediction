@@ -40,9 +40,9 @@ Evaluate the model and plot predictions.
 
 ## Program
 
-#### Name: Vasanthi Sivasankar
+#### Name: Jwalamukhi S
 
-#### Register Number: 212223040234
+#### Register Number: 212223040079
 
 ```Python
 # Define RNN Model
